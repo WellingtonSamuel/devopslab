@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def pagina_inicial():
-    return "Teste Github Wellington"
+    return "Teste Github Wellington v1.0"
